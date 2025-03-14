@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|c:\\users\\enrique galv\u00E1n\\source\\repos\\rh_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\models\\db_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|solutionrelative:models\\db_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,23 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
               "ToolTip": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\Controllers\\ValuesController.cs",
               "RelativeToolTip": "Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:42:27.716Z"
+              "WhenOpened": "2025-02-21T15:42:27.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
@@ -63,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -75,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -99,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",

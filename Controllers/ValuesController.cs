@@ -12,7 +12,7 @@ namespace RH_API.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "Eli", "Owin", "Italia" };
+            return new string[] { "Eli", "Owin", "Italia", "Susana" };
         }
 
         // GET api/values/5

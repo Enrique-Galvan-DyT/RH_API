@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|c:\\users\\enrique galv\u00E1n\\source\\repos\\rh_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|c:\\users\\enrique galv\u00E1n\\source\\repos\\rh_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA47A833-A057-4AFC-A334-67E1C9862167}|RH_API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Controllers\\ValuesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:42:27.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T15:42:27.716Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
               "ToolTip": "C:\\Users\\Enrique Galv\u00E1n\\source\\repos\\RH_API\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T15:14:14.689Z",
               "EditorCaption": ""
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T01:39:49.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T01:39:49.948Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T01:16:06.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T01:16:06.322Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Models\\db_model.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T01:37:11.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T01:37:11.487Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAswFIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:57:36.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T16:57:36.566Z"
             }
           ]
         }
